@@ -36,7 +36,7 @@ Conteúdos estudados durante o curso.
 	- Introdução a Testes de Software
 	- Teste Unitários com JUnit
 	-Desenvolvendo Testes Usando Mockito
-- Sprink Framework
+- Spring Framework
 	- Princiais Protocolos de Comnunicação da Internet
 	- Imersão no Spring Framework com Spring Boot
 	- Criando ua API REST Documentada com Spring Web e Swagger
